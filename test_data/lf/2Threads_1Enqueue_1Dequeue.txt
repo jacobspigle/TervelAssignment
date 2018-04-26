@@ -1,0 +1,43 @@
+time_stamps:
+  start : 1524714344.372151
+  end : 1524714349.376181
+ds_state :
+    size : 0
+metrics :
+  operations :
+    totals :
+      dequeue_Pass : 11931878
+      dequeue_Fail : 2702
+      enqueue_Pass : 11936781
+      enqueue_Fail : 0
+      empty_Pass : 0
+      empty_Fail : 0
+      size_Pass : 0
+      size_Fail : 0
+    per_thread :
+      - TID : 0
+        dequeue_Pass : 5963816
+        dequeue_Fail : 1371
+        dequeue_Rate : 0.500000
+        enqueue_Pass : 5966971
+        enqueue_Fail : 0
+        enqueue_Rate : 0.500000
+        empty_Pass : 0
+        empty_Fail : 0
+        empty_Rate : 0.000000
+        size_Pass : 0
+        size_Fail : 0
+        size_Rate : 0.000000
+      - TID : 1
+        dequeue_Pass : 5968062
+        dequeue_Fail : 1331
+        dequeue_Rate : 0.500000
+        enqueue_Pass : 5969810
+        enqueue_Fail : 0
+        enqueue_Rate : 0.500000
+        empty_Pass : 0
+        empty_Fail : 0
+        empty_Rate : 0.000000
+        size_Pass : 0
+        size_Fail : 0
+        size_Rate : 0.000000

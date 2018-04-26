@@ -1,0 +1,121 @@
+time_stamps:
+  start : 1524714563.689027
+  end : 1524714568.689136
+ds_state :
+    size : 0
+metrics :
+  operations :
+    totals :
+      dequeue_Pass : 18821224
+      dequeue_Fail : 1874
+      enqueue_Pass : 18823225
+      enqueue_Fail : 0
+      empty_Pass : 0
+      empty_Fail : 0
+      size_Pass : 0
+      size_Fail : 0
+    per_thread :
+      - TID : 0
+        dequeue_Pass : 2322882
+        dequeue_Fail : 236
+        dequeue_Rate : 0.500000
+        enqueue_Pass : 2322656
+        enqueue_Fail : 0
+        enqueue_Rate : 0.500000
+        empty_Pass : 0
+        empty_Fail : 0
+        empty_Rate : 0.000000
+        size_Pass : 0
+        size_Fail : 0
+        size_Rate : 0.000000
+      - TID : 1
+        dequeue_Pass : 2353881
+        dequeue_Fail : 290
+        dequeue_Rate : 0.500000
+        enqueue_Pass : 2355823
+        enqueue_Fail : 0
+        enqueue_Rate : 0.500000
+        empty_Pass : 0
+        empty_Fail : 0
+        empty_Rate : 0.000000
+        size_Pass : 0
+        size_Fail : 0
+        size_Rate : 0.000000
+      - TID : 2
+        dequeue_Pass : 2354115
+        dequeue_Fail : 294
+        dequeue_Rate : 0.500000
+        enqueue_Pass : 2353862
+        enqueue_Fail : 0
+        enqueue_Rate : 0.500000
+        empty_Pass : 0
+        empty_Fail : 0
+        empty_Rate : 0.000000
+        size_Pass : 0
+        size_Fail : 0
+        size_Rate : 0.000000
+      - TID : 3
+        dequeue_Pass : 2364093
+        dequeue_Fail : 204
+        dequeue_Rate : 0.500000
+        enqueue_Pass : 2365624
+        enqueue_Fail : 0
+        enqueue_Rate : 0.500000
+        empty_Pass : 0
+        empty_Fail : 0
+        empty_Rate : 0.000000
+        size_Pass : 0
+        size_Fail : 0
+        size_Rate : 0.000000
+      - TID : 4
+        dequeue_Pass : 2356271
+        dequeue_Fail : 263
+        dequeue_Rate : 0.500000
+        enqueue_Pass : 2357647
+        enqueue_Fail : 0
+        enqueue_Rate : 0.500000
+        empty_Pass : 0
+        empty_Fail : 0
+        empty_Rate : 0.000000
+        size_Pass : 0
+        size_Fail : 0
+        size_Rate : 0.000000
+      - TID : 5
+        dequeue_Pass : 2353007
+        dequeue_Fail : 215
+        dequeue_Rate : 0.500000
+        enqueue_Pass : 2349541
+        enqueue_Fail : 0
+        enqueue_Rate : 0.500000
+        empty_Pass : 0
+        empty_Fail : 0
+        empty_Rate : 0.000000
+        size_Pass : 0
+        size_Fail : 0
+        size_Rate : 0.000000
+      - TID : 6
+        dequeue_Pass : 2351462
+        dequeue_Fail : 262
+        dequeue_Rate : 0.500000
+        enqueue_Pass : 2350356
+        enqueue_Fail : 0
+        enqueue_Rate : 0.500000
+        empty_Pass : 0
+        empty_Fail : 0
+        empty_Rate : 0.000000
+        size_Pass : 0
+        size_Fail : 0
+        size_Rate : 0.000000
+      - TID : 7
+        dequeue_Pass : 2365513
+        dequeue_Fail : 110
+        dequeue_Rate : 0.500000
+        enqueue_Pass : 2367716
+        enqueue_Fail : 0
+        enqueue_Rate : 0.500000
+        empty_Pass : 0
+        empty_Fail : 0
+        empty_Rate : 0.000000
+        size_Pass : 0
+        size_Fail : 0
+        size_Rate : 0.000000

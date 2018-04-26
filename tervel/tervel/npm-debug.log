@@ -1,0 +1,52 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'g++4.8.0' ]
+2 info using npm@3.10.10
+3 info using node@v6.11.3
+4 verbose config Skipping project config: /Users/jacobspigle/.npmrc. (matches userconfig)
+5 silly loadCurrentTree Starting
+6 silly install loadCurrentTree
+7 silly install readLocalPackageData
+8 silly fetchPackageMetaData g++4.8.0
+9 silly fetchOtherPackageData g++4.8.0
+10 silly cache add args [ 'g++4.8.0', null ]
+11 verbose cache add spec g++4.8.0
+12 silly cache add parsed spec Result {
+12 silly cache add   raw: 'g++4.8.0',
+12 silly cache add   scope: null,
+12 silly cache add   escapedName: null,
+12 silly cache add   name: null,
+12 silly cache add   rawSpec: 'g++4.8.0',
+12 silly cache add   spec: '/Users/jacobspigle/Local_Documents/COP4520/ExtraCreditAssignment/tervel/tervel/g++4.8.0',
+12 silly cache add   type: 'local' }
+13 error addLocal Could not install /Users/jacobspigle/Local_Documents/COP4520/ExtraCreditAssignment/tervel/tervel/g++4.8.0
+14 silly fetchPackageMetaData Error: ENOENT: no such file or directory, open '/Users/jacobspigle/Local_Documents/COP4520/ExtraCreditAssignment/tervel/tervel/g++4.8.0'
+14 silly fetchPackageMetaData     at Error (native)
+14 silly fetchPackageMetaData  error for g++4.8.0 { Error: ENOENT: no such file or directory, open '/Users/jacobspigle/Local_Documents/COP4520/ExtraCreditAssignment/tervel/tervel/g++4.8.0'
+14 silly fetchPackageMetaData     at Error (native)
+14 silly fetchPackageMetaData   errno: -2,
+14 silly fetchPackageMetaData   code: 'ENOENT',
+14 silly fetchPackageMetaData   syscall: 'open',
+14 silly fetchPackageMetaData   path: '/Users/jacobspigle/Local_Documents/COP4520/ExtraCreditAssignment/tervel/tervel/g++4.8.0' }
+15 silly rollbackFailedOptional Starting
+16 silly rollbackFailedOptional Finishing
+17 silly runTopLevelLifecycles Finishing
+18 silly install printInstalled
+19 verbose stack Error: ENOENT: no such file or directory, open '/Users/jacobspigle/Local_Documents/COP4520/ExtraCreditAssignment/tervel/tervel/g++4.8.0'
+19 verbose stack     at Error (native)
+20 verbose cwd /Users/jacobspigle/Local_Documents/COP4520/ExtraCreditAssignment/tervel/tervel
+21 error Darwin 17.5.0
+22 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "g++4.8.0"
+23 error node v6.11.3
+24 error npm  v3.10.10
+25 error path /Users/jacobspigle/Local_Documents/COP4520/ExtraCreditAssignment/tervel/tervel/g++4.8.0
+26 error code ENOENT
+27 error errno -2
+28 error syscall open
+29 error enoent ENOENT: no such file or directory, open '/Users/jacobspigle/Local_Documents/COP4520/ExtraCreditAssignment/tervel/tervel/g++4.8.0'
+30 error enoent ENOENT: no such file or directory, open '/Users/jacobspigle/Local_Documents/COP4520/ExtraCreditAssignment/tervel/tervel/g++4.8.0'
+30 error enoent This is most likely not a problem with npm itself
+30 error enoent and is related to npm not being able to find a file.
+31 verbose exit [ -2, true ]
